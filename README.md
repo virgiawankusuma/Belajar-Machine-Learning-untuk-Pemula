@@ -1,3 +1,3 @@
-# Belajar Machine Learning untuk Pemula
-Kelas Dicoding : [Belajar Machine Learning untuk Pemula](https://www.dicoding.com/academies/184).  
-[Certificate](https://www.dicoding.com/certificates/GRX5K4D73Z0M).  
+# Belajar Pengembangan Machine Learning
+Kelas Dicoding : [Belajar Pengembangan Machine Learning](https://www.dicoding.com/academies/185).  
+[Certificate](https://www.dicoding.com/certificates/ERZR4YRO2ZYV).  
