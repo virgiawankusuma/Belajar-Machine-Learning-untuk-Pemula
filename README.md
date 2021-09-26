@@ -1,7 +1,3 @@
-# [Machine Learning Developer Learning Path](https://www.dicoding.com/learningpaths/30)
-Machine Learning Developer Learning Path oleh [Dicoding Indonesia](https://www.dicoding.com).
-1. Belajar Dasar Visualisasi Data. 
-2. Memulai Pemrograman Dengan Python. 
-3. [Belajar Machine Learning untuk Pemula](https://github.com/virgiawankusuma/Machine-Learning-Developer/tree/Belajar-Machine-Learning-untuk-Pemula). 
-4. [Belajar Pengembangan Machine Learning](https://github.com/virgiawankusuma/Machine-Learning-Developer/tree/Belajar-Pengembangan-Machine-Learning).
-5. [Machine Learning Terapan](https://github.com/virgiawankusuma/Machine-Learning-Developer/tree/Machine-Learning-Terapan)
+# Belajar Pengembangan Machine Learning
+Kelas Dicoding : [Belajar Pengembangan Machine Learning](https://www.dicoding.com/academies/319).  
+[Certificate]().
